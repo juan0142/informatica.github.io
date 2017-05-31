@@ -1,1 +1,1 @@
-# informatica.github.io
+# http://informatica.github.io
